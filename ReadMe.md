@@ -23,7 +23,7 @@ Edit your bash profile with following line:
 
 Then:
 `js 'fizzBuzz[0].js'`
-Or
+or
 `js 'fizzBuzz[1].js'`
 
 Later uses modulus, first one just counting and tar.
